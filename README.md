@@ -49,7 +49,7 @@ Professional Web Commerce Solution for Paper / Spigot Servers.
 请在当前仓库创建 Issue，并选择 **"Developer/Pro-User Application"** 模板提交。
 
 ## 🔗 社区与联系方式
-* **QQ 交流群**：[![QQ Group](https://img.shields.io/badge/QQ_Group-636803372-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white)](#)
+* **QQ 交流群**：[![QQ Group](https://img.shields.io/badge/QQ_Group-636803372-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white)](https://qun.qq.com/universal-share/share?ac=1&authKey=EMHvFOsEqOBnEQi%2FJZtN%2BFwamTisdy0A02IwhRsxJG8t9GWK4uKs2G4CgZpT3yHW&busi_data=eyJncm91cENvZGUiOiI2MzY4MDMzNzIiLCJ0b2tlbiI6ImlpV3lHR3BFT3NvdWxUYysrSnFBN3lSWGRGU1BlTmF4a3FJSnNXeFBNZkI0emZRVDUxdCszbzdEc1NzUlNDTS8iLCJ1aW4iOiI5NTg2MzAxNDYifQ%3D%3D&data=8nepSQv0_dZIm_ZCWW-lPMXP8xlcFXyNWUolkq1DvckJaLbB0JYLVwmuOfmH0Z7mKXGgRx6yhwpi9bjWCvi66Q&svctype=4&tempid=h5_group_info)
 * **Discord 社区**：[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/4mSg4VyxBN)
 
 ---
